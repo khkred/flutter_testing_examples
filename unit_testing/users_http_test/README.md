@@ -1,7 +1,3 @@
-Based on the information you've provided, I'll help you create a README update for your GitHub repository focusing on the users_http_test. This update will incorporate content from both articles you mentioned.
-
-Here's a suggested README update:
-
 ## Users HTTP Test
 
 This repository contains examples of unit testing in Flutter, specifically focusing on testing HTTP requests for a user application. The tests demonstrate how to use Mockito for mocking HTTP responses and testing asynchronous operations.
@@ -59,9 +55,3 @@ void main() {
 ### Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-This README provides an overview of the users_http_test, mentions the relevant articles, and includes a code snippet to give readers a quick glimpse of what to expect. Feel free to adjust the content as needed to better fit your repository's specific structure and requirements.
-
-Citations:
-[1] https://harishkunchala.com/unit-testing-in-flutter-with-examples
-[2] https://harishkunchala.com/flutter-
