@@ -8,7 +8,7 @@ void main() {
     counter = Counter();
   });
   // Given When Then
-  group('Counter Class - ', () {
+  group('Test start, increment', () {
     test(
         'Given counter class when it is instantiated then value of the count should be 0',
         () {
